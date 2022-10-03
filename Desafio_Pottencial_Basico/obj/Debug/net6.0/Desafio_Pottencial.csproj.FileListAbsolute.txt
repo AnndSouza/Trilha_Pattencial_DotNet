@@ -1,0 +1,15 @@
+C:\Projetos\Desafio_Pottencial\bin\Debug\net6.0\Desafio_Pottencial.exe
+C:\Projetos\Desafio_Pottencial\bin\Debug\net6.0\Desafio_Pottencial.deps.json
+C:\Projetos\Desafio_Pottencial\bin\Debug\net6.0\Desafio_Pottencial.runtimeconfig.json
+C:\Projetos\Desafio_Pottencial\bin\Debug\net6.0\Desafio_Pottencial.dll
+C:\Projetos\Desafio_Pottencial\bin\Debug\net6.0\Desafio_Pottencial.pdb
+C:\Projetos\Desafio_Pottencial\obj\Debug\net6.0\Desafio_Pottencial.csproj.AssemblyReference.cache
+C:\Projetos\Desafio_Pottencial\obj\Debug\net6.0\Desafio_Pottencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Desafio_Pottencial\obj\Debug\net6.0\Desafio_Pottencial.AssemblyInfoInputs.cache
+C:\Projetos\Desafio_Pottencial\obj\Debug\net6.0\Desafio_Pottencial.AssemblyInfo.cs
+C:\Projetos\Desafio_Pottencial\obj\Debug\net6.0\Desafio_Pottencial.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafio_Pottencial\obj\Debug\net6.0\Desafio_Pottencial.dll
+C:\Projetos\Desafio_Pottencial\obj\Debug\net6.0\refint\Desafio_Pottencial.dll
+C:\Projetos\Desafio_Pottencial\obj\Debug\net6.0\Desafio_Pottencial.pdb
+C:\Projetos\Desafio_Pottencial\obj\Debug\net6.0\Desafio_Pottencial.genruntimeconfig.cache
+C:\Projetos\Desafio_Pottencial\obj\Debug\net6.0\ref\Desafio_Pottencial.dll

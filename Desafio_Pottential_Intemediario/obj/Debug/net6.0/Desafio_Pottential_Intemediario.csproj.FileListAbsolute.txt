@@ -1,0 +1,15 @@
+C:\Projetos\Desafio_Pottential_Intemediario\bin\Debug\net6.0\Desafio_Pottential_Intemediario.exe
+C:\Projetos\Desafio_Pottential_Intemediario\bin\Debug\net6.0\Desafio_Pottential_Intemediario.deps.json
+C:\Projetos\Desafio_Pottential_Intemediario\bin\Debug\net6.0\Desafio_Pottential_Intemediario.runtimeconfig.json
+C:\Projetos\Desafio_Pottential_Intemediario\bin\Debug\net6.0\Desafio_Pottential_Intemediario.dll
+C:\Projetos\Desafio_Pottential_Intemediario\bin\Debug\net6.0\Desafio_Pottential_Intemediario.pdb
+C:\Projetos\Desafio_Pottential_Intemediario\obj\Debug\net6.0\Desafio_Pottential_Intemediario.csproj.AssemblyReference.cache
+C:\Projetos\Desafio_Pottential_Intemediario\obj\Debug\net6.0\Desafio_Pottential_Intemediario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Desafio_Pottential_Intemediario\obj\Debug\net6.0\Desafio_Pottential_Intemediario.AssemblyInfoInputs.cache
+C:\Projetos\Desafio_Pottential_Intemediario\obj\Debug\net6.0\Desafio_Pottential_Intemediario.AssemblyInfo.cs
+C:\Projetos\Desafio_Pottential_Intemediario\obj\Debug\net6.0\Desafio_Pottential_Intemediario.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafio_Pottential_Intemediario\obj\Debug\net6.0\Desafio_Pottential_Intemediario.dll
+C:\Projetos\Desafio_Pottential_Intemediario\obj\Debug\net6.0\refint\Desafio_Pottential_Intemediario.dll
+C:\Projetos\Desafio_Pottential_Intemediario\obj\Debug\net6.0\Desafio_Pottential_Intemediario.pdb
+C:\Projetos\Desafio_Pottential_Intemediario\obj\Debug\net6.0\Desafio_Pottential_Intemediario.genruntimeconfig.cache
+C:\Projetos\Desafio_Pottential_Intemediario\obj\Debug\net6.0\ref\Desafio_Pottential_Intemediario.dll
